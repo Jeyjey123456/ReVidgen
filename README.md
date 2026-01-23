@@ -38,6 +38,7 @@ https://github.com/user-attachments/assets/71144a57-f365-409e-b350-3221c6cc49d7
 
 
 ## 📑 Todo List
+- [ ] **Embodied Execution Evaluation**: Measure the action execution success rate of generated videos using Inverse Dynamics Model (IDM).
 
 ## ⚙️ Installation
 ### Environment
