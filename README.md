@@ -18,7 +18,7 @@
 [Hongyu Zhang](https://dagroup-pku.github.io/ReVidgen.github.io/), 
 [Xiaojie Li](https://dagroup-pku.github.io/ReVidgen.github.io/), 
 [Ruoqing Hu](https://dagroup-pku.github.io/ReVidgen.github.io/), <br>
-[Yufei Ding](https://selina2023.github.io/), 
+[Yufei Ding](https://yufeiding.com/), 
 [Yiming Zou](https://dagroup-pku.github.io/ReVidgen.github.io/), 
 [Yan Zeng](https://scholar.google.com/citations?user=-zT0sBsAAAAJ&hl=zh-CN), 
 [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/)
