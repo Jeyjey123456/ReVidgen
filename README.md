@@ -31,8 +31,8 @@ This repository is the official implementation of our work, consisting of (i) RB
 the limitations of current video foundation models and potential directions for improvement, offering new perspectives for researchers exploring the embodied domain using video world models. Our goal is to establish a solid foundation for the rigorous assessment and scalable training of video generation models in the field of physical AI, accelerating the progress of embodied AI toward general intelligence.
 ## 🔥 News
 * `[Ongoing]` 🔥 We are actively training a physically plausible robotic video world model and applying it for real-world deployment in downstream robotic tasks. Stay tuned!
+* `[2026.1.22]`  🔥 Once the internal review is approved, we will release the RoVid-X robotic video dataset on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RoVid-X) and open-source the RBench on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RBench).
 * `[2026.1.22]`  🔥 Our [Research Paper](https://arxiv.org/abs/2601.15282) is now available.  The [Project Page](https://dagroup-pku.github.io/ReVidgen.github.io/) is created.
-* `[2026.1.22]`  🔥 Once the internal review is approved, we will release the RoVid-X robotic video dataset on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RoVid-X) and open-source the RBench on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RBench),.
 ## 🎥 Demo
 https://github.com/user-attachments/assets/71144a57-f365-409e-b350-3221c6cc49d7
 
