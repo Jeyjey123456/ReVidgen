@@ -34,8 +34,7 @@ the limitations of current video foundation models and potential directions for 
 * `[2026.1.22]`  🔥 Once the internal review is approved, we will release the RoVid-X robotic video dataset on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RoVid-X) and open-source the RBench on [Hugging Face](https://huggingface.co/datasets/DAGroup-PKU/RBench).
 * `[2026.1.22]`  🔥 Our [Research Paper](https://arxiv.org/abs/2601.15282) is now available.  The [Project Page](https://dagroup-pku.github.io/ReVidgen.github.io/) is created.
 ## 🎥 Demo
-https://github.com/user-attachments/assets/71144a57-f365-409e-b350-3221c6cc49d7
-
+https://github.com/user-attachments/assets/3d00cf52-3631-41c2-9eca-b580404e710f
 
 ## 📑 Todo List
 - [ ] **Embodied Execution Evaluation**: Measure the action execution success rate of generated videos using Inverse Dynamics Model (IDM).
