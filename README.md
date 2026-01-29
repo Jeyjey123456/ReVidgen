@@ -156,7 +156,7 @@ ReVidgen/
 ### 🤗 Quick Start
 
 ```bash
-> **Note:** To enable GPT-based evaluation, please prepare your OpenAI API key in advance and set the `API_KEY` field in the following evaluation scripts accordingly.
+> **Note:** To enable GPT-based evaluation, please prepare your API key in advance and set the `API_KEY` field in the following evaluation scripts accordingly.
 
 # Run embodiment-oriented evaluation
 bash scripts/rbench_eval_4embodiments.sh
